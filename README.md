@@ -1,4 +1,13 @@
-### Hi there 👋
+
+                                                                👋 Hello! I'm Arun M
+
+⚡ I am a full stack javascript engineer from India.
+
+🌱 I’m currently working as Principal Application Engineer at Oracle.
+
+👀 I’m interested in all javascript ecosystem and any new technology that challenge me 😄. And I love cloud.
+
+📫 Connect with me on [Linkedin](https://www.linkedin.com/in/arunmuthiyarkath/)
 
 <!--
 **Arun693/Arun693** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
