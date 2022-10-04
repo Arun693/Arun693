@@ -1,5 +1,5 @@
 
-                                                                👋 Hello! I'm Arun M
+                                                           👋 Hello! I'm Arun M
 
 ⚡ I am a full stack javascript engineer from India.
 
